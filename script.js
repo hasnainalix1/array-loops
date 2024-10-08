@@ -77,3 +77,12 @@
 // console.log(evenNumbers);
 
 
+    // case changing
+//  var cityToCheck = prompt("Enter your city");
+    //  cityToCheck = cityToCheck.toLowerCase();
+    //  var cleanestCities = ["karachi", "hydrabad", "lahore", "quetta", "dadu"];
+    //  for (var i = 0; i <= 4; i++) {
+    //  if (cityToCheck === cleanestCities[i]) {
+    //  alert("It's one of the cleanest cities");
+    //  }
+//  }
